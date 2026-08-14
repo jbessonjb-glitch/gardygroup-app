@@ -12,7 +12,6 @@
     "db:studio": "prisma studio",
     "db:seed": "tsx prisma/seed.ts",
     "db:seed:status": "tsx prisma/seed-status.ts"
-}
   },
   "dependencies": {
     "next": "14.2.5",
