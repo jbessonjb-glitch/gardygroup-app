@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { auth } from "@/auth"
 import { StatsCard } from "@/components/stats-card"
 import { PlanBadge } from "@/components/plan-badge"
